@@ -1,0 +1,16 @@
+PODS:
+  - UnityAds (4.12.5)
+
+DEPENDENCIES:
+  - UnityAds (~> 4.12.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs:
+    - UnityAds
+
+SPEC CHECKSUMS:
+  UnityAds: a4036ed911b4df2227d8137f4f777fcb86c4a2df
+
+PODFILE CHECKSUM: 0e99d79697f381d5aebaff818dc425cd55bff2c1
+
+COCOAPODS: 1.16.2
